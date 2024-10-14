@@ -1,0 +1,33 @@
+form {
+
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    background-color: black;
+    max-width: 512px;
+    margin: auto;
+    padding: 3rem;
+    border-radius: 10px;
+
+    div{
+        display: flex;
+    flex-flow: column nowrap;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    }
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+a {
+
+    color: white;
+}
